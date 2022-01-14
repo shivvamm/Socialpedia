@@ -1,2 +1,2 @@
 # Socialpedia
-# An Interative platform to giveaway informations
+# An Interactive platform to giveaway informations
